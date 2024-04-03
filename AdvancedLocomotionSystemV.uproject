@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{CA006192-4F3E-3F1B-7F6B-4A84B3755518}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
+		}
+	]
+}
